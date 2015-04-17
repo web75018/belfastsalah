@@ -23,7 +23,11 @@ belfastsalah.controllers.controller('SettingsCtrl', function($scope, $ionicModal
 
   $scope.openFork = function(){
     $window.open('https://github.com/meltuhamy/belfastsalah', '_system');
-  }
+  };
+
+  $scope.openUnified = function(){
+    $window.open('http://archive.eastlondonmosque.org.uk/unified', '_system');
+  };
 
   $scope.saveNotifyMinutes = function(){
     Settings.setAndSave('notifyMinutes', $scope.settings.notifyMinutes);

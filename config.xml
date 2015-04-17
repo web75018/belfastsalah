@@ -2,7 +2,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.meltuhamy.belfastsalah" version="1.1.4">
   <name>Prayer Times</name>
   <description>
-        A prayer times application for iOS and Android for Belfast.
+        A prayer times application for iOS and Android for London using the Unified London Prayer Timetable.
     </description>
   <author email="tuhamy@gmail.com" href="http://meltuhamy.com/">
       Mohamed Eltuhamy
